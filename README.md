@@ -2,7 +2,7 @@
 
 Hello, I'm Rodrigo, an aspiring Data Analyst with a background in International Business, Inventory Management, and Logistics.
 
-🫡 I can:
+🫡  I'm a self-taught enthusiast who can:
 
 - Query data using SQL.
 - Generate reports and perform data analysis using SQL.
@@ -10,17 +10,17 @@ Hello, I'm Rodrigo, an aspiring Data Analyst with a background in International 
 - Develop dashboards on Power BI or Excel.
 
 
-🔨 Tools:
+🔨  Tools:
 
 - SQL, Excel, Power BI
 
 
 
-🔭 I’m looking for a position as a Data Analyst to continue growing my skills in this field.
+🔭  I’m looking for a position as a Data Analyst to continue growing my skills in this field.
 
-🌱 I’m currently learning more about SQL since it's not a tool I use in my current job.
+🌱  I’m currently learning more about SQL since it's not a tool I use in my current job.
 
-📫 How to reach me: Rodrigo.ipince@hotmail.com
+📫  How to reach me: Rodrigo.ipince@hotmail.com
 
 <!--
 **Memesls/Memesls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
