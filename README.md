@@ -1,4 +1,6 @@
-## Hello, I'm Rodrigo, an aspiring Data Analyst with a background in International Business, Inventory Management, and Logistics.
+## 😶‍🌫️ Sharing Time
+
+Hello, I'm Rodrigo, an aspiring Data Analyst with a background in International Business, Inventory Management, and Logistics.
 
 🫡 I can:
 
@@ -11,6 +13,7 @@
 🔨 Tools:
 
 - SQL, Excel, Power BI
+
 
 
 🔭 I’m looking for a position as a Data Analyst to continue growing my skills in this field.
