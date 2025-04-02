@@ -1,6 +1,6 @@
 ## 😶‍🌫️ Sharing Time
 
-Hello, I'm Rodrigo, an aspiring Data Analyst with a background in International Business, Inventory Management, and Logistics.
+Hello, I'm Rodrigo, an aspiring Data Analyst with a background in International Business, Logistics/Inventory Management, and Customer Support.
 
 🫡  I'm a self-taught enthusiast who can:
 
