@@ -1,12 +1,12 @@
 ## 😶‍🌫️ Sharing Time
 
-Hello, I'm Rodrigo, an aspiring Data Analyst with a background in International Business, Logistics/Inventory Management, and Customer Support.
+Hello, I'm Rodrigo, an aspiring Data Analyst with a background in International Business and Logistics/Inventory Management.
 
-🫡  I'm a self-taught enthusiast who can:
+🫡  I'm a self-taught data analyst who can:
 
 - Query data using SQL.
 - Generate reports and perform data analysis using SQL.
-- Analyze data and report using Google Sheets and Excel.
+- Analyze data and reports using Google Sheets and Excel.
 - Develop dashboards on Power BI or Excel.
 
 
