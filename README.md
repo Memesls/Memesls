@@ -21,8 +21,8 @@ Hello, I'm Rodrigo, a Data Analyst with a background in International Business a
 🌱  I’m currently learning more about data storytelling techniques, as I find it particularly interesting.
 
 📫  How to reach me: 
-email: Rodrigo.ipince@hotmail.com
-LinkedIn: https://www.linkedin.com/in/rodrigo-ipince/ [LinkedIn](https://www.linkedin.com/in/rodrigo-ipince/)
+- email: Rodrigo.ipince@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-ipince/)
 
 ⚡ Fun fact: My favourite movie is Cloverfield.
 
