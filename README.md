@@ -6,8 +6,8 @@ Hello, I'm Rodrigo, a Data Analyst with a background in International Business, 
 
 - Query data using SQL at an advanced level.
 - Generate reports and perform data analysis using SQL, Excel, Power BI, and R.
-- Develop dashboards on Power BI or Excel.
-- Create compelling presentations showcasing the data analysis findings.
+- Develop dashboards in Power BI or Excel.
+- Create compelling reports/presentations showcasing the data analysis findings.
 
 
 🔨  Tools:
