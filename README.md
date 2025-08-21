@@ -1,6 +1,6 @@
 ## 😶‍🌫️ Sharing Time
 
-Hello, I'm Rodrigo, a Data Analyst with a background in International Business and Logistics/Inventory Management.
+Hello, I'm Rodrigo, a Data Analyst with a background in International Business, Customer Service, Logistics, and Inventory Management.
 
 🫡  I'm a self-taught data analyst who can:
 
