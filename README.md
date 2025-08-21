@@ -22,7 +22,7 @@ Hello, I'm Rodrigo, a Data Analyst with a background in International Business, 
 🌱  I’m currently learning more about data storytelling techniques, as I find it particularly interesting.
 
 📫  How to reach me: 
-- email: Rodrigo.ipince@hotmail.com
+- Rodrigo.ipince@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-ipince/)
 - [Resume](https://github.com/user-attachments/files/21357087/CV.-.ENG.-.Rodrigo.Ipince.Ramirez.pdf)
 
