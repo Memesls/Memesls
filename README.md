@@ -5,7 +5,7 @@ Hello, I'm Rodrigo, a Data Analyst with a background in International Business, 
 🫡  I'm a self-taught data analyst who can:
 
 - Query data using SQL at an advanced level.
-- Generate reports and perform data analysis using SQL, Excel, Power BI, and R.
+- Generate reports and perform data analysis using SQL, Excel, and Power BI.
 - Develop dashboards in Power BI or Excel.
 - Create compelling reports/presentations showcasing the data analysis findings.
 
