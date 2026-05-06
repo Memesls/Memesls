@@ -13,13 +13,13 @@ Hello, I'm Rodrigo, a Data Analyst with a background in International Business, 
 🔨  Tools:
 
 
-- SQL, Excel, Power BI, R, Slides
+- SQL, Excel, Power BI, Claude, Slides
 
 
 
 🔭  I’m looking for a position as a Data Analyst to continue growing my skills in this field.
 
-🌱  I’m currently learning more about data storytelling techniques, as I find it particularly interesting.
+🌱  I’m currently learning more about data storytelling techniques and artificial intelligence, as I find it particularly interesting.
 
 📫  How to reach me: 
 - Rodrigo.ipince@hotmail.com
